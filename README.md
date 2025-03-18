@@ -1,6 +1,20 @@
 
+************** deploy html pages : *******************
 
-***************** Learn how to deploy react website on github (react pages) : - **************************
+1. create repo on the github then copy repo URL 
+2. clone the project by following repo URL in the file editor
+
+3. after editing or adding files : 
+	git add .
+
+4. git status : to check the status.
+5. git commit -m 'update name' 
+6. git push 
+
+
+
+*********** Learn how to deploy react website on github (react pages) : - ************
+
 
 1. npm install gh-pages --save-dev
 
@@ -45,6 +59,8 @@
 
 
 
+
+
 ************* git remote commands ****************** 
 
 check remote origin :
@@ -56,15 +72,6 @@ delete remote origin :
 add remote origin : 
 	git remote add origin URL 
 
-
-
-echo "# Alrahmancartravel-Test" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Hyper-Sk/Alrahmancartravel-Test.git
-git push -u origin main
 
 
 
