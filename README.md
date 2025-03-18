@@ -13,7 +13,7 @@
 
 
 
-*********** Learn how to deploy react website on github (react pages) : - ************
+*********** deploy react website on github (react pages) : - ************
 
 
 1. npm install gh-pages --save-dev
